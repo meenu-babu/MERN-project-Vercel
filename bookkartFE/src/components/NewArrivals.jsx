@@ -32,7 +32,7 @@ const NewArrivals=()=> {
       <Swiper
 
         autoplay={{
-          delay: 3500,
+          delay: 2500,
           disableOnInteraction: false,
         }}
         pagination={{
